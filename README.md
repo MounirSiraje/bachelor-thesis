@@ -8,7 +8,7 @@ The dataset used is called "Vroegtijdig Schoolverlaten 2022-2023" and can be acc
 
 This repository includes a variety of exploratory notebooks created throughout the thesis process. Due to time constraints, the code was not consolidated, cleaned, or extensively commented. As a result, the structure may appear fragmented or chaotic at times. Many notebooks were created for isolated testing of specific ideas, figures, or methods.
 
-Despite this, the core logic and results reflect the experiments and analysis presented in the thesis. If you’re interested in a particular part of the pipeline or experiment, feel free to open an issue or reach out.
+Despite this, the core logic and results reflect the experiments and analysis presented in the thesis. If you’re interested in a particular part of the pipeline or experiment, feel free to open an issue or reach out via my email mounir.siraje@hotmail.com or my linkedin https://www.linkedin.com/in/mounirsiraje/.
 
 ## 📘 Thesis
 
